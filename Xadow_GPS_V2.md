@@ -8,8 +8,6 @@ surveyurl: https://www.research.net/r/xadow-gps-v2
 sku: 113040009
 ---
 
-
-
 # Xadow GPS V2
 ## Introduction
 ---
@@ -83,29 +81,13 @@ Some frequently asked questions in [RePhone Community](http://www.seeed.cc/disco
 ## Resources
 ---
 We will be keep updating the source code on our github page:
-- Source Code for Xadow GPS v2
-- Testing Code for Xadow GPS v2 based on Eclipse IDE
+- [Source Code for Xadow GPS v2](https://github.com/WayenWeng/Xadow_GPS_v2/)
+- [Testing Code for Xadow GPS v2 based on Eclipse IDE](https://github.com/WayenWeng/Xadow_GPS_v2_test/)
 
 The schematic diagram of Xadow GPS v2 is provided in the following link:
-- Xadow GPS v2 Schematic Files
+- [Xadow GPS v2 Schematic Files](https://github.com/SeeedDocument/Xadow_GPS_V2/raw/master/resources/202000729_PCBA%3BXadow%20GPS%20v2.1_schemic%20file.zip)
 
 When you find the GPS values are a bit far from your actual location, you might need to burn new firmware to Xadow GPS V2:
-- Learn how to burn new firmware with a mbed board
+- [Learn how to burn new firmware with a mbed board](https://github.com/SeeedDocument/Xadow_GPS_V2/raw/master/resources/Burn_to_Xadow_modules.zip)
 Check more info about the GPS L70 and the chip antenna:
-- Specification for GPS L70 and the chip antenna
-
-## Help us to make it better
----
-Thank you for choosing Seeed. As one of the world-leading open-hardware suppliers, Seeedstudio has been continuously creating well-quality and diversified modules for our customers, makers and developers. As a young company, it is inevitable that there are things we neglected the importance, for example, our document system. It is a little shame however true that we have been continuously receiving complaint about how hard it is to use our document system——ugly interface, confusing content, and the URL that can never be opened etc. Here we sincerely apologize for all the inconvenient you’ve experienced during using the old system.
-
-It is time to say good bye to the user-unfriendly old document system now, in order to bring better experience to our users, we have launched a project to optimize the document system from the middle of 2016. The work includes:
-
-* Replace the old WiKi system with a new one that developed from Mkdocs, a more widely used and cooler project documentation tool.
-* Review and rewrite documents for hundreds of products to make them more understandable.
-* Inspected repair all the URL to make sure it can be linked to the right page.
-
-Although we have tried our best to optimize, it is still possible that we make some mistakes, so if you find anything that needs to be updated, it is very welcome to submit the amended version as our contributor or give us suggestions in the survey below. Please don’t forget to leave your email address if you need our reply, we will reply to you as soon as we can.
-
-By the way, we will feel very happy and encouraged if we receive 5 stars from you. With the help and encouragement from you, we believe that we can make this document better and better!
-
-<iframe style="height: 1000px; width: 700px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.research.net/r/xadow-gps-v2" frameborder="0"></iframe>
+- [Specification for GPS L70 and the chip antenna](https://github.com/SeeedDocument/Xadow_GPS_V2/raw/master/resources/GPS_L70_%26_Chip_Antenna.rar)
